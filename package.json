@@ -1,0 +1,21 @@
+{
+  "name": "discord-chat-importer",
+  "version": "1.0.0",
+  "description": "Imports Discord messages to a new channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Calum Dingwall (https://github.com/caburum)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caburum/discord-chat-importer.git"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
